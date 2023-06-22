@@ -5,17 +5,12 @@ at Sapienza University of Rome.
 
 ## Contents:
 
-- [FDS_HomeWork_1](https://nbviewer.org/github/LM1997610/Fundamentals_DS/blob/main/FDS_Assignment_1.ipynb): **Computer Vision and Object Identification**
-  - Image Filtering &emsp; - Edge Detection &emsp; - Object Identification &emsp; - Performance Evaluation
+- [FDS_HomeWork_1](https://nbviewer.org/github/LM1997610/Fundamentals_DS/blob/main/FDS_Assignment_1.ipynb): **Computer Vision**
+
+  - Image Filtering, &emsp; Edge Detection, &emsp; Object Identification, &emsp; Performance Evaluation
   
-
-\bigskip
-
 - [FDS_HomeWork_2](https://nbviewer.org/github/LM1997610/Fundamentals_DS/blob/main/FDS_Assignment_2.ipynb): **Classification**
-  - Logistic Resgression and Gradient Ascent,
-  - Logistic Regression with non linear boundaries
-  -  Multinomial Classification
-  -  Transfer Learning on CIFAR-10
+  - Logistic Resgression and Gradient Ascent, &emsp; Logistic Regression with non linear boundaries, &emsp; Multinomial Classification, &emsp; Transfer Learning on CIFAR-10
 - Final Project
 
 **Group members**:
