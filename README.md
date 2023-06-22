@@ -10,6 +10,17 @@ at Sapienza University of Rome.
   - Edge Detection
   - Object Identification
   - Performance Evaluation
+  - This is an inline list.
+  \bigskip 
+  
+  \begin{enumerate*}
+      \item First item.
+      \item Second item.
+      \item Third item.
+      \item Fourth item.
+  \end{enumerate*}
+
+\bigskip
 
 - [FDS_HomeWork_2](https://nbviewer.org/github/LM1997610/Fundamentals_DS/blob/main/FDS_Assignment_2.ipynb): **Classification**
   - Logistic Resgression and Gradient Ascent,
