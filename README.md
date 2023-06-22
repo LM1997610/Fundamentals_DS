@@ -11,10 +11,10 @@ at Sapienza University of Rome.
   
 [FDS_HomeWork_2](https://nbviewer.org/github/LM1997610/Fundamentals_DS/blob/main/FDS_Assignment_2.ipynb): **Classification :**
   
-  - Logistic Regression and Gradient Ascent, &emsp;
-  - Logistic Regression with non linear boundaries, &emsp;
-  - Multinomial Classification, &emsp;
-  - Transfer Learning on CIFAR-10
+> Logistic Regression and Gradient Ascent, &emsp;
+  Logistic Regression with non linear boundaries, &emsp;
+  Multinomial Classification, &emsp;
+  Transfer Learning on CIFAR-10
 
 #### **Group members**:
 
