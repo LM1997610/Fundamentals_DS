@@ -11,14 +11,9 @@ at Sapienza University of Rome.
   - Object Identification
   - Performance Evaluation
   - This is an inline list.
-  \bigskip 
-  
-  \begin{enumerate*}
-      \item First item.
-      \item Second item.
-      \item Third item.
-      \item Fourth item.
-  \end{enumerate*}
+  * Item 1
+  * Item 2
+  * Item 3
 
 \bigskip
 
