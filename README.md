@@ -18,8 +18,8 @@ at Sapienza University of Rome.
 
 **Group members**:
 
-- Sara Cammarota, 1869943,
-- Gianmarco Fiorenza, 2086296, 
-- Mattia Girolami, 2076424, 
-- Luca Mazzucco, 1997610, 
-- Ilaria Petrucci, 1732987, 
+- Sara Cammarota: 1869943,
+- Gianmarco Fiorenza: 2086296, 
+- Mattia Girolami: 2076424, 
+- Luca Mazzucco: 1997610, 
+- Ilaria Petrucci: 1732987, 
