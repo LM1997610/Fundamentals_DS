@@ -1,6 +1,12 @@
 # Fundamentals of Data Science:
 
-Homeworks and final project for the [Foundations of Data Science](https://sites.google.com/di.uniroma1.it/fds-2022-2023) course at Sapienza University of Rome.
+Homeworks and final project for the [Fundamentals of Data Science](https://sites.google.com/di.uniroma1.it/fds-2022-2023) course at Sapienza University of Rome.
+
+## Contents:
+
+- [FDS_HomeWork_1](https://nbviewer.org/github/LM1997610/Fundamentals_DS/blob/main/FDS_Assignment_1.ipynb):
+- [FDS_HomeWork_2](https://nbviewer.org/github/LM1997610/Fundamentals_DS/blob/main/FDS_Assignment_2.ipynb):
+- Final Project
 
 **Group members**:
 
