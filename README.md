@@ -16,7 +16,8 @@ at Sapienza University of Rome.
   Multinomial Classification,\
   Transfer Learning on CIFAR-10
 
-[Final Project](https://nbviewer.org/github/LM1997610/Fundamentals_DataScience/blob/main/FDS_final_project_report.pdf): Stellar Classification: Exploratory Data Analysis and Features Engineering. models: Multinomial Logistic Regression (MLR) and K-nearest Neighbours classifier (KNN)
+[Final Project](https://nbviewer.org/github/LM1997610/Fundamentals_DataScience/blob/main/FDS_final_project_report.pdf): Stellar Classification: exploratory Data-Analysis and Features Engineering.\
+Classifiers: `Multinomial Logistic Regression` (MLR) and `K-Nearest Neighbours` (KNN).
 
 #### **Group members**:
 
