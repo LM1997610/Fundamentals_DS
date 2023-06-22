@@ -17,9 +17,9 @@ at Sapienza University of Rome.
   Transfer Learning on CIFAR-10
 
 [Final Project](https://nbviewer.org/github/LM1997610/Fundamentals_DataScience/blob/main/FDS_final_project_report.pdf): Stellar Classification: 
-> dataset : get [it](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17) from Kaggle\
-  some exploratory Data-Analysis and Features Engineering.\
-  Classifiers: `Multinomial Logistic Regression` (MLR) and `K-Nearest Neighbours` (KNN).
+> some exploratory Data-Analysis and Features Engineering.\
+  Classifiers: `Multinomial Logistic Regression` (MLR) and `K-Nearest Neighbours` (KNN)\
+  dataset : [get it](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17) from Kaggle
 
 #### **Group members**:
 
