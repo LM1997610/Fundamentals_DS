@@ -6,14 +6,8 @@ at Sapienza University of Rome.
 ## Contents:
 
 - [FDS_HomeWork_1](https://nbviewer.org/github/LM1997610/Fundamentals_DS/blob/main/FDS_Assignment_1.ipynb): **Computer Vision and Object Identification**
-  - Image Filtering
-  - Edge Detection
-  - Object Identification
-  - Performance Evaluation
-  - This is an inline list.
-  * Item 1
-  * Item 2
-  * Item 3
+  - Image Filtering &emsp; - Edge Detection &emsp; - Object Identification &emsp; - Performance Evaluation
+  
 
 \bigskip
 
