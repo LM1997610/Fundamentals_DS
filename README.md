@@ -1,6 +1,6 @@
 # Fundamentals of Data Science:
 
-Homeworks and final project for the [Fundamentals of Data Science](https://sites.google.com/di.uniroma1.it/fds-2022-2023) course, winter semester 2022,\
+Homeworks and final project for the [Fundamentals of Data Science](https://sites.google.com/di.uniroma1.it/fds-2022-2023) course, winter semester 2022/2023,\
 at Sapienza University of Rome.
 
 ## Contents:
