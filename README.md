@@ -16,7 +16,7 @@ at Sapienza University of Rome.
   - Multinomial Classification, &emsp;
   - Transfer Learning on CIFAR-10
 
-### **Group members**:
+##### **Group members**:
 
 - Sara Cammarota: 1869943,
 - Gianmarco Fiorenza: 2086296, 
